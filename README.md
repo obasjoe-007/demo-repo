@@ -10,3 +10,8 @@ my work is geeting better ....
 
 
 I will be pulling this fine to verify my SSH key
+
+i have confirmed my SSH key
+
+My edit is not pusing to github
+
